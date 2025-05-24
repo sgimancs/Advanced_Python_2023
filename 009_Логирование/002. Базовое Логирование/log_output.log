@@ -1,0 +1,6 @@
+DEBUG:root:Here's a debug-level log message
+INFO:root:Here's a info-level log message
+WARNING:root:Here's a warning-level log message
+ERROR:root:Here's a error-level log message
+CRITICAL:root:Here's a critical-level log message
+WARNING:root:Here's a variable of type String and int: 42

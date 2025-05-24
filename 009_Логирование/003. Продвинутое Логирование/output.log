@@ -1,0 +1,3 @@
+User:sman@sgiman.com 05/21/2025 03:11:13 PM: INFO: main: Line:35 Here's an info-level log message
+User:sman@sgiman.com 05/21/2025 03:11:13 PM: WARNING: main: Line:36 Here's a warning-level log message
+User:sman@sgiman.com 05/21/2025 03:11:13 PM: DEBUG: debug_log: Line:21 Here.s a debug-level log msg
