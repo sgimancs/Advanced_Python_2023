@@ -25,5 +25,4 @@ YOUTUBE
 https://www.youtube.com/@avecoder/videos
 
 
-
-![ak_logo](https://github.com/user-attachments/assets/d019ad56-9991-4c01-9e47-b587eb1fc897)
+![ak_logo_png](https://github.com/user-attachments/assets/1857c827-f6d1-4cae-b4ae-2d68471fb53f)
