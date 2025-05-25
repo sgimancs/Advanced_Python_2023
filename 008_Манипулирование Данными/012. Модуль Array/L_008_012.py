@@ -21,7 +21,7 @@ print(int_array.typecode)   # код типа 'i' (целые числа)
 print(int_array.itemsize)   # размер = 4 байта
 
 ################################################################
-int_array.insert(0,0)   # вставить в начало
+int_array.insert(0,0)         # вставить в начало
 int_array.append(42)          # давить в конец
 int_array.extend([35,36,37])  # расширить массив
 
